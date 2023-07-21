@@ -1,0 +1,17 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jan 18, 2023, 9:58:06 PM
+    Author     : Hoang Hiep
+*/
+
+body {
+    background: url("/img/background.jpg") no-repeat center center fixed; 
+    background-size: cover;
+}
+
+.form-min-width {
+    min-width: 300px;
+}
